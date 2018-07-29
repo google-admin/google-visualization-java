@@ -55,7 +55,7 @@ public enum ReasonType {
   INVALID_REQUEST,
 
   /**
-   * An internal error occured.
+   * An internal error occurred.
    */
   INTERNAL_ERROR,
 
